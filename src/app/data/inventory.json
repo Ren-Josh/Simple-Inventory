@@ -1,0 +1,44 @@
+[
+    {
+        "id": "3231e6f2-3d7b-457e-ba3a-d007822f3873",
+        "name": "Coke",
+        "quantity": "20",
+        "price": "20"
+    },
+    {
+        "id": "422b19cb-96d6-411b-a1be-376ca32347d2",
+        "name": "coco crunch",
+        "quantity": "10",
+        "price": "29"
+    },
+    {
+        "id": "694b6e69-d0d1-44f9-8dea-586ee7b83643",
+        "name": "Hi-Ho",
+        "quantity": "10",
+        "price": "30"
+    },
+    {
+        "id": "ece428f8-4bea-428d-96d9-05c16011d5bc",
+        "name": "Hotdog",
+        "quantity": "100",
+        "price": "30"
+    },
+    {
+        "id": "bab06462-1930-4ed4-9558-ef160a7aa211",
+        "name": "Cheese",
+        "quantity": "10",
+        "price": "35"
+    },
+    {
+        "id": "d645db1f-7c74-44a3-a847-69feb1390fb5",
+        "name": "Mama Sita",
+        "quantity": "10",
+        "price": "28"
+    },
+    {
+        "id": "51450870-126b-4718-aede-6052dcd90357",
+        "name": "Minecraft",
+        "quantity": "1",
+        "price": "1000"
+    }
+]
